@@ -43,7 +43,7 @@
 ---
 
 ### 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Roboto&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/cqveH1VLUF?theme=dark&font=Roboto&ext=contest)
 
 ---
 
