@@ -42,6 +42,11 @@
 
 ---
 
+### 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Roboto&ext=contest)
+
+---
+
 ### 📫 Connect with Me
 - 💼 [LinkedIn](#) *(Add your LinkedIn link here)*  
 - 📧 Email: *youremail@example.com*  
