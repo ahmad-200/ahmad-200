@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Ahmad Hassan 👋
 
-<!--
-**ahmad-200/ahmad-200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Undergraduate Computer Science Student** | 💻 **Aspiring Software Developer** | 🌎 **Global Learner & Hackathon Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 I am currently pursuing my **BS in Computer Science**.
+- 🧠 I actively **solve 1 LeetCode problem daily** to strengthen my problem-solving skills.
+- 🐍 I served as a **Section Leader** in **Stanford University’s Code in Place 2025**,  
+  where I **taught Python to international students** and earned an official certificate.
+- 🎯 I participated in the **MIT Winter Contest 2025**, securing **239th place out of 536 global teams**.
+- 💡 I joined **Wordsprind Developers Hackathon**, collaborating with developers on innovative projects.
+- 📂 I regularly **upload coding problems and projects** to GitHub to document my learning journey.
+
+---
+
+### 🛠️ Skills
+- **Programming Languages:** Python, C++  
+- **Web Development:** HTML, CSS  
+- **Problem-Solving:** LeetCode & Competitive Programming  
+- **Tools & Platforms:** GitHub, VS Code, Jupyter Notebook
+
+---
+
+### 🚀 Current GitHub Activities
+- 🔹 Pushing **LeetCode solutions** to GitHub (currently 2+ problems uploaded)  
+- 🔹 Uploading **mini-projects and coding exercises**  
+- 🔹 Exploring **open-source contributions** in Python projects  
+
+---
+
+### 🏅 Achievements
+- ✅ **Stanford Code in Place 2025 – Section Leader** *(Taught Python, earned certificate)*  
+- ✅ **MIT Winter Contest 2025 – Global Rank 239/536**  
+- ✅ **Hackathon Participant – Wordsprind Developers Hackathon**  
+
+---
+
+### 📊 GitHub Stats
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](#) *(Add your LinkedIn link here)*  
+- 📧 Email: *youremail@example.com*  
+
+---
+
+> 💡 *I believe in learning by doing and sharing knowledge with others through code and collaboration.*
