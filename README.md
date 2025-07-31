@@ -48,8 +48,8 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](#) *(Add your LinkedIn link here)*  
-- 📧 Email: *youremail@example.com*  
+- 💼 [LinkedIn](#) *(https://www.linkedin.com/in/ahmad-hassan-8b7146186/)*  
+- 📧 Email: *ahmedhussan.568@gmail.com*  
 
 ---
 
