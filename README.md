@@ -38,7 +38,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmad-200&show_icons=true&theme=radical)
 
 ---
 
